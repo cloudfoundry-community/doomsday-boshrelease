@@ -21,7 +21,7 @@ meta:
     email:        "ci@cloudfoundry-community.org"
 
   github:
-    owner:        RubidiumStudios
+    owner:        cloudfoundry-community
     source-repo:  doomsday
     repo:         doomsday-boshrelease
     username:     ((github.username))
